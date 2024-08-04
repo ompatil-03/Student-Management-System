@@ -19,7 +19,6 @@ The Student Management System is a Java-based application designed to manage stu
 - View existing student records
 - Update student information
 - Delete student records
-- Search for students by their IDs
 
 ## Technologies Used
 
