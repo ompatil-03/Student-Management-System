@@ -8,7 +8,6 @@
 4. [Prerequisites](#prerequisites)
 5. [Setup Instructions](#setup-instructions)
 6. [Screenshots](#screenshots)
-7. [License](#license)
 
 ## Overview
 
@@ -87,13 +86,4 @@ Before running this project, ensure you have the following installed:
 | ---------------- | ---------------- |
 | ![Updating Student](https://github.com/user-attachments/assets/afc13a23-a360-402d-9650-0e4128e108be) | ![Deleting Student](https://github.com/user-attachments/assets/91f7f1be-f750-48c7-b732-d8473f257761) |
 
-## License
 
-This pr
----
-
-Feel free to customize this README according to your project's specifics. Add more details as needed to provide a comprehensive guide for users and contributors.
-
-### Notes:
-- Replace the URLs of the images with actual URLs of the screenshots stored in your GitHub repository.
-- Ensure the image files are uploaded to the `assets` folder or an equivalent folder in your GitHub repository to maintain the links.
